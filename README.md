@@ -6,7 +6,6 @@ Analyze batting performance using exploratory data analysis.
 ## Tools Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 
 ## Key Insights
